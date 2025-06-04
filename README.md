@@ -1,3 +1,18 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # HR-Analysis-Dashboard
     Create a visually appealing and user-friendly interface in Power BI Desktop.
 # Data collection & preparations
@@ -15,3 +30,6 @@
   d. Line Chart: Showcase sales trends over time (daily, monthly, yearly). Analyze seasonal patterns or growth trends using this visualization.
   
   e. Table or Matrix Visualizations: Show a matrix displaying jobrole with  details like Jobsatisfaction rate and sum of attritionCount.
+
+
+  
